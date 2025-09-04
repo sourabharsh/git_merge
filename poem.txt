@@ -1,4 +1,5 @@
 roses are red
-violets are blue
-sugar is sweet
+violets are azure
+sugar is semi-sweet
 and so are you
+and one more extra line
